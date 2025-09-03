@@ -26,7 +26,3 @@ a Jaipur-based NGO dedicated to healing, education, and community well-being.
 
 ---
 
-## 📂 Project Setup  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
